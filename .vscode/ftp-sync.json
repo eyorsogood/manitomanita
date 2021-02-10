@@ -1,0 +1,24 @@
+{
+    "remotePath": "./wp-content/themes/eyor-theme",
+    "host": "ftp.rouieilustrisimo.com",
+    "username": "dev@manitomanita.com",
+    "password": "Dx*&-~M}z%2Z",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "uploadOnSave": false,
+        "extensionsToInclude": [],
+        "path": ""
+    }
+}
